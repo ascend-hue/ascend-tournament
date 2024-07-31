@@ -1,0 +1,23 @@
+body{
+    background: #212121;
+}
+
+.rules{
+    position: relative;
+    top: 10vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.formCon{
+    width: 50vw;
+    position: relative;
+    top: 22vh;
+    margin-bottom: 5vh;
+    left: 25vw;
+    justify-content: center;
+    align-items: center;
+}
